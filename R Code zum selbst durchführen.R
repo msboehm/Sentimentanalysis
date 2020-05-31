@@ -23,12 +23,6 @@ text_words %>%
   filter(word == "aber") %>%
   count(word)
 # Stoppwörter aussortieren
-#library(lsa) 
-#data(stopwords_de)
-#stopwords_de <- data.frame(word=stopwords_de)
-#text_words <- text_words %>%
-#  anti_join(stopwords_de, by = "word")
-
 text_words <- text_words %>%
   anti_join(get_stopwords(language = "de"))
 # Anzahl Wörter
@@ -110,7 +104,7 @@ text_words %>%
 
 ##### Der Text in Relation zu weiteren Texten ##### 
 # Daten einlesen
-text_long <- read.csv("~/Documents/Blog/Deutsche Textanalyse/Regierungserklärungen.csv", header=TRUE, stringsAsFactors=FALSE)
+text_long <- read.csv("~/Documents/Blog/Deutsche Textanalyse/Regierungserklärungen.csv", header=TRUE, stringsAsFactors=FALSE)
 # Data Prep für alle Texte
 texts_words <- text_long %>%
   mutate(text = gsub("[0-9]", "", text, fixed = F)) %>% # ohne Nummern
