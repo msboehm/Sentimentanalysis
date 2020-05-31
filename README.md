@@ -6,9 +6,9 @@ Beim Heise-Verlag ist von mir ein Artikel erscheinen zum Vorgehen bei einer Sent
 https://www.bundeskanzlerin.de/bkin-de/aktuelles/regierungserklaerung-von-bundeskanzlerin-merkel-1746554
 
 Hier habe ich den Code zur gesamten Analyse hochgeladen und lade zum nachmachen und zur eigenen Analyse ein!
-Die Rede habe ich zudem mit anderen Reden verglichen. Dazu habe ich in eine Excel-Datei erstellt und als csv-Datei abgespeichert. Dieses setzt sich wiefolgt zusammen
-Spalte A: das jeweilige Datum
-Spalte B: die gesamte Rede (vom gleichen Link) komplett in eine Zelle kopiert.
+Die Rede habe ich zudem mit anderen Reden verglichen. Dazu habe ich in eine Excel-Datei erstellt und als csv-Datei abgespeichert. Dieses setzt sich wiefolgt zusammen  
+Spalte A: das jeweilige Datum  
+Spalte B: die gesamte Rede (vom gleichen Link) komplett in eine Zelle kopiert.  
 
 
 ## weitere Analysen von mir
