@@ -10,6 +10,8 @@ Die Rede habe ich zudem mit anderen Reden verglichen. Dazu habe ich in eine Exce
 Spalte A: das jeweilige Datum
 Spalte B: die gesamte Rede (vom gleichen Link) komplett in eine Zelle kopiert.
 
-Ich bin zudem BLogger und blogge u.a. auch zur Sentimentanalyse, aber auch über weitere Themen, die mich interessieren und/oder mit Data Science zu tun haben. Besucht gerne den Blog!
+
+## weitere Analysen von mir
+Ich bin zudem Blogger und blogge u.a. zur Sentimentanalyse, aber auch über weitere Themen, die mich interessieren und/oder mit Data Science zu tun haben. Besucht gerne den Blog!
 www.aufschrieb.blogspot.com
 
